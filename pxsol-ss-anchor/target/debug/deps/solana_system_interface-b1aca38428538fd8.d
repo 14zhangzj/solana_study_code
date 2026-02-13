@@ -1,0 +1,7 @@
+e:\workspace\devcode\rustcode\rustgithub\Solana_study_code\pxsol-ss-anchor\target\debug\deps\solana_system_interface-b1aca38428538fd8.d: D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\lib.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\error.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\instruction.rs
+
+e:\workspace\devcode\rustcode\rustgithub\Solana_study_code\pxsol-ss-anchor\target\debug\deps\libsolana_system_interface-b1aca38428538fd8.rmeta: D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\lib.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\error.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\instruction.rs
+
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\lib.rs:
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\error.rs:
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\solana-system-interface-1.0.0\src\instruction.rs:

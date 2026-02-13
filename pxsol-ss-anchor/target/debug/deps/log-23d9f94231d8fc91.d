@@ -1,0 +1,8 @@
+e:\workspace\devcode\rustcode\rustgithub\Solana_study_code\pxsol-ss-anchor\target\debug\deps\log-23d9f94231d8fc91.d: D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\lib.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\macros.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\serde.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\__private_api.rs
+
+e:\workspace\devcode\rustcode\rustgithub\Solana_study_code\pxsol-ss-anchor\target\debug\deps\liblog-23d9f94231d8fc91.rmeta: D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\lib.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\macros.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\serde.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\__private_api.rs
+
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\lib.rs:
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\macros.rs:
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\serde.rs:
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\log-0.4.29\src\__private_api.rs:

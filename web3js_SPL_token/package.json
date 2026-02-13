@@ -1,0 +1,23 @@
+{
+  "name": "web3js-spl-token",
+  "version": "1.0.0",
+  "description": "SPL Token operations using Web3.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": ["solana", "spl-token", "web3.js"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.95.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.6",
+    "typescript": "^5.7.3",
+    "ts-node": "^10.9.2"
+  }
+}

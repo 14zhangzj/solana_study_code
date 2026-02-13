@@ -1,0 +1,12 @@
+[package]
+name = "blueshift_vault"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["lib", "cdylib"]
+
+[dependencies]
+solana-address = { version = "2.0", features = ["sha2", "syscalls", "curve25519"] }
+pinocchio = "0.10.1"
+pinocchio-system = "0.5.0"

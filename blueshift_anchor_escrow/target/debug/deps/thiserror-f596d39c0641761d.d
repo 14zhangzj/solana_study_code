@@ -1,0 +1,9 @@
+E:\workspace\devcode\rustcode\rustgithub\Solana_study_code\blueshift_anchor_escrow\target\debug\deps\thiserror-f596d39c0641761d.d: D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\lib.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\aserror.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\display.rs
+
+E:\workspace\devcode\rustcode\rustgithub\Solana_study_code\blueshift_anchor_escrow\target\debug\deps\libthiserror-f596d39c0641761d.rlib: D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\lib.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\aserror.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\display.rs
+
+E:\workspace\devcode\rustcode\rustgithub\Solana_study_code\blueshift_anchor_escrow\target\debug\deps\libthiserror-f596d39c0641761d.rmeta: D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\lib.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\aserror.rs D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\display.rs
+
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\lib.rs:
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\aserror.rs:
+D:\rustc\servers\rust\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\thiserror-1.0.69\src\display.rs:
